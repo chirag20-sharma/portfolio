@@ -11,7 +11,7 @@ const backToTop = document.getElementById('backToTop');
 const html = document.documentElement;
 
 // ========== THEME TOGGLE ==========
-const savedTheme = localStorage.getItem('theme') || 'light';
+const savedTheme = localStorage.getItem('theme') || 'dark';
 html.setAttribute('data-theme', savedTheme);
 
 themeToggle.addEventListener('click', () => {
