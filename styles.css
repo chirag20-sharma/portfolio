@@ -608,7 +608,7 @@ button {
 
 .float-card svg { width: 14px; height: 14px; color: var(--primary); }
 
-.card-figma { top: 10%; right: -20px; animation-delay: 0s; }
+.card-react { top: 10%; right: -20px; animation-delay: 0s; }
 .card-ux { bottom: 20%; right: -30px; animation-delay: 1s; }
 .card-code { bottom: 10%; left: -20px; animation-delay: 2s; }
 
@@ -2302,7 +2302,7 @@ button {
     height: 280px;
   }
 
-  .card-figma { right: -10px; }
+  .card-react { right: -10px; }
   .card-ux { right: -10px; }
   .card-code { left: -10px; }
 
